@@ -16,3 +16,4 @@ for i in d.keys():  # iterate key using for loop
 print(d.values())
 for i in d.values():  # iterate value using for loop
     print(i)
+print("Dictionary using slice operator")
