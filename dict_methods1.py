@@ -17,3 +17,5 @@ print(d.values())
 for i in d.values():  # iterate value using for loop
     print(i)
 print ("This Is a Dictionary concept done by alex")
+print ("Dictionary using slice operator")
+
